@@ -1,4 +1,4 @@
-## Robotics code
+## Robotics Hardware and AI/Models
 
 www.rcalix.com
 
