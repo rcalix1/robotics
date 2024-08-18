@@ -13,6 +13,7 @@
 * https://www.usefulcomponents.com/main_contents/projects/breadboard_trf_radio/breadboard_trf_radio.html
 * https://www.youtube.com/watch?v=CpX4mHYYD3E
 * https://www.youtube.com/watch?v=jHAjmamexIM&t=2s
+* https://youtu.be/1mkBbEErS20?si=G9BQ9HckOvBGR1ZB
 
 ## The Art of Electronics
 
