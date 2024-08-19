@@ -65,8 +65,8 @@
 *   ServoFlapOrnithopterAmericanKestrel86-3-3 28g:2nd Flight Test Good Flight
 *   https://www.youtube.com/watch?v=18_kauT8rg8
 *   After the second test flight, the wing was slimmed down a bit.
+*   https://www.youtube.com/watch?v=6pvaHyCRNxU
   
- 
  
  
 
