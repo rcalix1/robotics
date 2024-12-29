@@ -7,3 +7,8 @@
 ## Hand writing
 
 * https://www.youtube.com/watch?v=IVgoBncPw4E
+
+## Movements
+
+* https://www.youtube.com/watch?v=CrexH-owqnk
+* 
