@@ -20,4 +20,12 @@
 * seigi no kokoro o pielder on
 * tobase tekken! rocket punch!
 * ima da dasun da breasto fire!
+* mazin go! mazin go! mazin guer z!
+* yama o kudaku kurogane no shiro
+* super roboto mazinguer zeto!
+* seigi no ikari wa minna no tameni
+* hei wa no inori o pil der on
+* hassa meichu missile punch!
+* ima da dasun da loose to hurricane!
+* mazin go! mazin go! mazinguer z!
 * 
