@@ -25,3 +25,8 @@
 ## The Art of Electronics
 
 * https://www.youtube.com/watch?v=gmI22zJQZ5g&list=PL2u6aYAXZ0Z_VLDK7zHTmknZFUxJ6CW--&index=4
+
+## KiCad
+
+* link
+* 
