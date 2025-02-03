@@ -7,4 +7,5 @@
 ## Perceptron in hardware
 
 * https://www.youtube.com/watch?v=l-9ALe3U-Fg&t=41s
+* https://maker.pro/forums/threads/analogue-perceptron.298609/
 * 
