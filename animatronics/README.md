@@ -28,4 +28,8 @@
 * hassa meichu missile punch!
 * ima da dasun da loose to hurricane!
 * mazin go! mazin go! mazinguer z!
+
+## Antropomorphic
+
+* Lamp: https://arxiv.org/abs/2501.12493
 * 
