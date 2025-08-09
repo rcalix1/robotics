@@ -99,9 +99,4 @@ systemctl status ollama
 
 ---
 
-## ✅ Done!
 
-* Open WebUI runs automatically on boot
-* Ollama can now auto-start with system boot if desired
-* Models are stored on SSD (via symbolic link)
-* System is stable and reboot-proof
