@@ -4,6 +4,16 @@
 * https://www.youtube.com/watch?v=q4fGac-nrTI
 * https://www.jetson-ai-lab.com/initial_setup_jon.html
 
+## Parts I needed for the Jetson
+
+* Jetson Orin Nano Super kit (https://amzn.to/4lqTNtH)
+* SAMSUNG 970 EVO Plus SSD (https://amzn.to/45Jogys)
+* DisplayPort to HDMI Cable (https://amzn.to/4fviDHA)
+* HDMI monitor
+* keyboard
+* mouse
+* Micro SSD (https://amzn.to/45b1QpK)
+
 ## Perceptron in hardware
 
 * https://www.youtube.com/watch?v=l-9ALe3U-Fg&t=41s
@@ -99,4 +109,7 @@ systemctl status ollama
 
 ---
 
+## Disclaimer
+
+* This post/page/article includes Amazon Affiliate links to products. This site receives income if you purchase through these links. This income helps support content such as this one.
 
