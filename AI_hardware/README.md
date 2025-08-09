@@ -2,7 +2,7 @@
 
 * Jetson orin nano
 * https://www.youtube.com/watch?v=q4fGac-nrTI
-* 
+* https://www.jetson-ai-lab.com/initial_setup_jon.html
 
 ## Perceptron in hardware
 
